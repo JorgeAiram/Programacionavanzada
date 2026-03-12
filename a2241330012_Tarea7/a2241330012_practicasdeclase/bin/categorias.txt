@@ -1,0 +1,3 @@
+M1,Materiales
+M2,Mano de Obra
+M3,Maquinaria
