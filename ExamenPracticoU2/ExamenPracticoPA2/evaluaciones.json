@@ -1,0 +1,61 @@
+{
+  "evaluaciones": [
+    {
+      "id": "ANALISIS DE ALGORITMOS_GONZALEZ BRAVO EDER JAHIR_I   ",
+      "asignatura": "ANALISIS DE ALGORITMOS",
+      "profesor": "GONZALEZ BRAVO EDER JAHIR",
+      "grupo": "I   ",
+      "productoIntegrador": {
+        "fecha": "",
+        "criterio1": 0,
+        "criterio2": 0,
+        "criterio3": 0,
+        "criterio4": 0,
+        "criterio5": 0,
+        "criterio6": 0,
+        "observaciones": ""
+      },
+      "listaCotejo": {
+        "indicadoresSeleccionados": []
+      },
+      "equipos": [
+        {
+          "alumnos": [
+            {
+              "matricula": "N/A",
+              "nombre": "Alumno 1"
+            }
+          ],
+          "calificacionRubrica": 0
+        },
+        {
+          "alumnos": [
+            {
+              "matricula": "N/A",
+              "nombre": "Alumno 2"
+            }
+          ],
+          "calificacionRubrica": 0
+        },
+        {
+          "alumnos": [
+            {
+              "matricula": "N/A",
+              "nombre": "Alumno 3"
+            }
+          ],
+          "calificacionRubrica": 0
+        },
+        {
+          "alumnos": [
+            {
+              "matricula": "N/A",
+              "nombre": "Alumno 4"
+            }
+          ],
+          "calificacionRubrica": 0
+        }
+      ]
+    }
+  ]
+}
